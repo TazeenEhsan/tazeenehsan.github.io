@@ -7,8 +7,84 @@ theme = "PaperMod"
 pagerSize = 5
 
 [params]
+env = "production"
 author = "Tazeen Ehsan"
+description = "Portfolio of Tazeen Ehsan — software developer interested in AI, Machine Learning, and Open Source."
+keywords = ["Tazeen Ehsan", "portfolio", "software developer", "machine learning", "AI", "open source"]
+DateFormat = "January 2006"
+defaultTheme = "auto"
+disableThemeToggle = false
 ShowReadingTime = true
 ShowShareButtons = true
 ShowPostNavLinks = true
 ShowCodeCopyButtons = true
+ShowBreadCrumbs = true
+ShowWordCount = true
+ShowRssButtonInSectionTermList = true
+ShowToc = true
+mainSections = ["posts"]
+
+[params.profileMode]
+enabled = true
+title = "Hi, I'm Tazeen 👋"
+subtitle = "I build software and explore AI, Machine Learning, and Open Source. Take a look at what I've been working on."
+
+[[params.profileMode.buttons]]
+name = "Projects"
+url = "/projects/"
+
+[[params.profileMode.buttons]]
+name = "Blog"
+url = "/posts/"
+
+[[params.profileMode.buttons]]
+name = "Skills"
+url = "/skills/"
+
+[[params.profileMode.buttons]]
+name = "Contact"
+url = "/contact/"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/tazeenehsan"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/REPLACE-ME/"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:REPLACE-ME@example.com"
+
+[menu]
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 10
+
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects/"
+weight = 20
+
+[[menu.main]]
+identifier = "posts"
+name = "Blog"
+url = "/posts/"
+weight = 30
+
+[[menu.main]]
+identifier = "skills"
+name = "Skills"
+url = "/skills/"
+weight = 40
+
+[[menu.main]]
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
+weight = 50
