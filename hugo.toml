@@ -1,0 +1,14 @@
+baseURL = "https://tazeenehsan.github.io/"
+languageCode = "en-us"
+title = "Tazeen Ehsan"
+theme = "PaperMod"
+
+[pagination]
+pagerSize = 5
+
+[params]
+author = "Tazeen Ehsan"
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowCodeCopyButtons = true
