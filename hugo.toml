@@ -28,6 +28,10 @@ mainSections = ["posts"]
 enabled = true
 title = "Hi, I'm Tazeen 👋"
 subtitle = "I build software and explore AI, Machine Learning, and Open Source. Take a look at what I've been working on."
+imageUrl = "profile.jpeg"
+imageTitle = "Tazeen Ehsan"
+imageWidth = 150
+imageHeight = 150
 
 [[params.profileMode.buttons]]
 name = "Projects"
