@@ -9,8 +9,8 @@ pagerSize = 5
 [params]
 env = "production"
 author = "Tazeen Ehsan"
-description = "Portfolio of Tazeen Ehsan — software developer interested in AI, Machine Learning, and Open Source."
-keywords = ["Tazeen Ehsan", "portfolio", "software developer", "machine learning", "AI", "open source"]
+description = "Portfolio of Tazeen Ehsan — WordPress & WooCommerce Plugin Developer specializing in PHP, JavaScript, React, and Gutenberg block development."
+keywords = ["Tazeen Ehsan", "WordPress Developer", "WordPress Plugin Developer", "WooCommerce Developer", "WooCommerce Plugin Developer", "Gutenberg Developer", "React WordPress Developer", "PHP Developer"]
 DateFormat = "January 2006"
 defaultTheme = "auto"
 disableThemeToggle = false
@@ -27,19 +27,19 @@ mainSections = ["posts"]
 [params.profileMode]
 enabled = true
 title = "Hi, I'm Tazeen 👋"
-subtitle = "I build software and explore AI, Machine Learning, and Open Source. Take a look at what I've been working on."
+subtitle = "WordPress & WooCommerce Plugin Developer — I build scalable WordPress plugins, WooCommerce solutions, and React-powered Gutenberg experiences."
 imageUrl = "profile.jpeg"
 imageTitle = "Tazeen Ehsan"
 imageWidth = 150
 imageHeight = 150
 
 [[params.profileMode.buttons]]
-name = "Projects"
-url = "/projects/"
+name = "Experience"
+url = "/experience/"
 
 [[params.profileMode.buttons]]
-name = "Blog"
-url = "/posts/"
+name = "Projects"
+url = "/projects/"
 
 [[params.profileMode.buttons]]
 name = "Skills"
@@ -76,6 +76,12 @@ identifier = "about"
 name = "About"
 url = "/about/"
 weight = 10
+
+[[menu.main]]
+identifier = "experience"
+name = "Experience"
+url = "/experience/"
+weight = 15
 
 [[menu.main]]
 identifier = "projects"

@@ -4,7 +4,7 @@ ShowToc: false
 ShowReadingTime: false
 ---
 
-Feel free to reach out:
+Open to WordPress & WooCommerce plugin development opportunities and collaborations. Feel free to reach out:
 
 - **Email:** [tazeenehsan74@gmail.com](mailto:tazeenehsan74@gmail.com)
 - **GitHub:** [github.com/tazeenehsan](https://github.com/tazeenehsan)

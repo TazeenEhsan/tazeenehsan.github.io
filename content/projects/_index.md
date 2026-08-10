@@ -1,5 +1,8 @@
 ---
 title: "Projects"
+aliases:
+  - /projects/example-project-one/
+  - /projects/example-project-two/
 ---
 
-A selection of things I've built. Source for most of it is on [GitHub](https://github.com/tazeenehsan).
+WordPress & WooCommerce plugin work — commercial products I've built and contributed to, plus custom plugin and Gutenberg block development.

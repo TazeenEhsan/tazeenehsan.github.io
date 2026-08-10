@@ -3,20 +3,30 @@ title: "Skills"
 ShowToc: false
 ---
 
-<!-- Replace the placeholders below with your actual skills. -->
+## WordPress & WooCommerce
+
+WordPress Plugin Development, WooCommerce Plugin Development & Customization, Plugin Architecture, Gutenberg Block API (React-based block development), WordPress Hooks & Filters, WooCommerce Hooks & Filters, WordPress REST API, WooCommerce REST API
 
 ## Languages
 
-Python, JavaScript/TypeScript, ...
+JavaScript (ES6+), PHP, C, C++
 
-## Frameworks & Tools
+## Frontend
 
-React, Node.js, Git, Docker, ...
+React, HTML, CSS, Bootstrap, Tailwind CSS, Material UI
 
-## Cloud & DevOps
+## Backend
 
-AWS / Azure / GCP, CI/CD (GitHub Actions), Kubernetes, ...
+PHP, Node.js, REST API Integration
 
-## Machine Learning & AI
+## Database
 
-TensorFlow / PyTorch, scikit-learn, ...
+MySQL, MongoDB
+
+## Development Tools
+
+Git, VS Code, Chrome DevTools
+
+## Other
+
+Performance Optimization, Debugging, UX Improvements, Git-based Team Collaboration
